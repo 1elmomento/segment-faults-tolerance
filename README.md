@@ -44,3 +44,7 @@ Now, the funny thing is that segment `b` of my friend's microwave oven is inacti
 
 
 Alternative approach for solving this problem could be **Contextual Analysis**. Here we can use contextual probability in our analysis. For example in series of digits, like `20X4`, we could weigh guesses toward plausible numbers like 2024 rather than 2074. 
+
+### Source for the first image:
+
+[Geeks For Geeks](https://www.geeksforgeeks.org/seven-segment-displays/)
