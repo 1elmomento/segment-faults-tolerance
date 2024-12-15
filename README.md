@@ -1,6 +1,6 @@
 # The Role of Faulty Segments in Digital Display Ambiguities
 
-On a cold winter day, my friend was waiting for his meal to be ready in a microwave oven in his office. While looking at the oven's counter, two main questions came to his mind:
+On a cold winter day, my friend, Mahdi, was waiting for his meal to be ready in a microwave oven in his office. While looking at the oven's counter, two main questions came to his mind:
 
 1. Which segment plays the most important role in displaying characters or numbers in standard English text?
 2. Which faulty or broken segment causes the most ambiguity in perceiving the displayed character or number?
